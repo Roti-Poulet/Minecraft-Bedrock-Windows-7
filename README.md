@@ -17,4 +17,4 @@ Progression:
 - Get a developer build: Done
 - Making it start on Windows 7: Done
 - Making it stable on Windows 7: Kinda done, will be improved later
-- Making it work on vanilla Windows 7: In progress...
+- Making it work on vanilla Windows 7: To do
