@@ -5,16 +5,16 @@ This is NOT a copy of OptiCraft. OptiCraft is based on the Education edition (al
 This project is, first of all, a fun experiment and a way for me to get a better knownledge about how Windows works and a way to help people understand how a game works and show the posibilities of a developer for their game.
 
 Features:
-- Windows 7 support
+- Windows 7 support (see the progression below)
 - Developer features such as ImGUI interface, Debug tab, Experimental features, Ingame Console and much more
 - Multiple renderers: RenderDragon (DirectX12/11/10) and OpenGL
-- Good performance
-- All 1.21.90 features (except Multiplayer for now)
+- Good performance, same as Opticraft or better with some weaker CPUs
+- All 1.21.90 features (except Multiplayer)
 - Console (logs)
 
 
 Progression:
 - Get a developer build: Done
 - Making it start on Windows 7: Done
-- Making it stable on Windows 7: Kinda done, will be improved later
+- Making it stable on Windows 7: Kind of done, will be improved later
 - Making it work on vanilla Windows 7: To do
