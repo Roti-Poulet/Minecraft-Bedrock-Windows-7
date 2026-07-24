@@ -4,6 +4,8 @@ A port of Minecraft Bedrock for Windows 7
 This is NOT a copy of OptiCraft. OptiCraft is based on the Education edition (almost natively compatible with stock Windows 7) and aimed to copy the official Minecraft Bedrock by adding Multiplayer support and other essencial features.
 This project is, first of all, a fun experiment and a way for me to get a better knownledge about how Windows works and a way to help people understand how a game works and show the posibilities of a developer for their game.
 
+Showcase video: https://www.youtube.com/watch?v=KWqtEZ3px3g
+
 Features:
 - Windows 7 support (see the progression below)
 - Developer features such as ImGUI interface, Debug tab, Experimental features, Ingame Console and much more
